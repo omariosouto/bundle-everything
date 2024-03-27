@@ -1,0 +1,15 @@
+{
+  "name": "bundle-everything",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bundle:build": "node bundle-build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
